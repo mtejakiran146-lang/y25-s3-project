@@ -107,7 +107,7 @@ button:hover {
   border-radius: 50%;
   width: 70px;
   height: 70px;
-  animation: spin 1s linear infinite;
+  animation: spin 0.5s linear infinite;
   margin-bottom: 10px;
 }
 
